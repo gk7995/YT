@@ -3,9 +3,9 @@
   "short_name": "YouTube",
   "start_url": "yt.html",
   "display": "standalone",
-  "background_color": "#0d47a1",
+  "background_color": "#1e88e5",
   "description": "YouTube",
-  "theme_color": "#0d47a1",
+  "theme_color": "#1e88e5",
   "orientation": "any",
   "icons": [{
       "src": "images/picture2.png",

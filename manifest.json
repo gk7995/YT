@@ -1,11 +1,11 @@
 {
-  "name": "YouTube",
-  "short_name": "YouTube",
+  "name": "YouTube Downloader",
+  "short_name": "YT Downloader",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#0d47a1",
-  "description": "YouTube",
-  "theme_color": "#0d47a1",
+  "background_color": "#1e88e5",
+  "description": "YouTube Downloader",
+  "theme_color": "#1e88e5",
   "orientation": "any",
   "icons": [{
       "src": "images/picture2.png",
